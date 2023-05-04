@@ -2,8 +2,6 @@
 
 The purpose of this exercise is to train you to design programs that need decision trees. 
 
-Estimated workload of this exercise is _30 min_.
-
 ### Description
 
 Please, proceed to the [QuadraticEquation](src/main/java/com/epam/rd/autotasks/QuadraticEquation.java)
